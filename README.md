@@ -1,51 +1,53 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F97316&width=700&lines=Hey%2C+I'm+Muthu+%F0%9F%91%8B;AI+Engineer+%7C+Full+Stack+Developer;Building+AI%2C+not+just+learning+it.;4x+Hackathon+Winner+%F0%9F%8F%86)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=200&section=header&text=Muthukumaran%20K&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Building%20AI%2C%20not%20just%20learning%20it&descAlignY=58&descSize=16" width="100%" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=4x+Hackathon+Winner+%F0%9F%8F%86+%7C+10x+Finalist;Google+Cloud+GenAI+%E2%98%81%EF%B8%8F+%7C+500%2B+LeetCode;Shipping+LLMs+to+prod+since+Year+1;LangChain+%C2%B7+AWS+Bedrock+%C2%B7+LangGraph+%C2%B7+FastAPI)](https://git.io/typing-svg)
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MUTHUKUMARAN-K-1&color=F97316&style=for-the-badge&label=PROFILE+VIEWS)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-muthu--k-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/muthu-k-)
-[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/muthukumaran_k/)
-[![Email](https://img.shields.io/badge/Gmail-contact-red?style=for-the-badge&logo=gmail)](mailto:muthukumaran.42510@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muthu-k-)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/muthukumaran_k/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muthukumaran.42510@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=vercel&logoColor=white)](https://fair-relay.vercel.app)
 
 </div>
 
 ---
 
-## 🧑‍💻 Who Am I?
-
 <table>
 <tr>
-<td width="50%">
+<td width="55%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" />
-
-</td>
-<td width="50%">
-
-### ⚡ Quick Facts
-
-![](https://img.shields.io/badge/🎓_Student-CSE_@_CIT_Chennai-blueviolet?style=flat-square)
-
-![](https://img.shields.io/badge/🤖_Role-AI_%26_Full_Stack_Engineer-F97316?style=flat-square)
-
-![](https://img.shields.io/badge/🏆_Hackathons-4x_Winner_·_10x_Finalist-22c55e?style=flat-square)
-
-![](https://img.shields.io/badge/💻_DSA-500%2B_LeetCode_Solved-EF4444?style=flat-square)
-
-![](https://img.shields.io/badge/☁️_Intern-Google_Cloud_GenAI-4285F4?style=flat-square)
-
-![](https://img.shields.io/badge/📍_Location-Chennai,_Tamil_Nadu-0EA5E9?style=flat-square)
+### 🧑‍💻 Who Am I?
 
 ```python
 muthu = {
-  "name"     : "Muthukumaran K",
-  "role"     : "AI Engineer · Full Stack Dev",
-  "college"  : "CIT Chennai · CSE '28",
-  "passion"  : "Building AI, not just learning it",
-  "current"  : "LangGraph · Agentic AI · Open Source"
+  "name"      : "Muthukumaran K",
+  "role"      : "AI Engineer · Full Stack Dev",
+  "college"   : "CIT Chennai · CSE '28",
+  "interned"  : "Google Cloud — GenAI",
+  "won"       : "4x Hackathon Winner · $900 Prize",
+  "solved"    : "500+ LeetCode · 800+ total",
+  "building"  : "Agentic AI · Open Source",
+  "passion"   : "Building AI, not just learning it"
 }
 ```
+
+</td>
+<td width="45%" valign="top">
+
+### ⚡ Quick Facts
+
+![](https://img.shields.io/badge/🎓-CSE_@_CIT_Chennai_'28-6D28D9?style=flat-square&labelColor=1e1e2e)
+![](https://img.shields.io/badge/☁️-Google_Cloud_GenAI_Intern-4285F4?style=flat-square&labelColor=1e1e2e)
+![](https://img.shields.io/badge/🏆-4x_Hackathon_Winner-F97316?style=flat-square&labelColor=1e1e2e)
+![](https://img.shields.io/badge/🎯-10x_Hackathon_Finalist-22C55E?style=flat-square&labelColor=1e1e2e)
+![](https://img.shields.io/badge/💻-500%2B_LeetCode_Solved-EF4444?style=flat-square&labelColor=1e1e2e)
+![](https://img.shields.io/badge/🤖-LangChain_·_Bedrock_·_LangGraph-8B5CF6?style=flat-square&labelColor=1e1e2e)
+![](https://img.shields.io/badge/📍-Chennai,_Tamil_Nadu-0EA5E9?style=flat-square&labelColor=1e1e2e)
 
 </td>
 </tr>
@@ -64,10 +66,10 @@ muthu = {
   </a>
 </p>
 
-| Project | What it does | Stack | Result |
+| Project | What it does | Stack | Live |
 |---|---|---|---|
-| **CodeNarrative-AI** | LLM copilot for codebase onboarding | Bedrock · AWS SAM · React · DynamoDB | 30+ APIs · VS Code extension · [Live ↗](https://main.d1d3c3oqy6cy3x.amplifyapp.com/) |
-| **FairRelay** | Fairness-aware AI logistics platform | LangGraph · FastAPI · XGBoost · OR-Tools | +40% utilisation · Gini 0.85→0.12 · [Live ↗](https://fair-relay.vercel.app) |
+| **CodeNarrative-AI** | LLM copilot · codebase onboarding 10× faster | Bedrock · AWS SAM · React · DynamoDB | [↗ Demo](https://main.d1d3c3oqy6cy3x.amplifyapp.com/) |
+| **FairRelay** | Fairness-aware AI logistics · 5-agent LangGraph | FastAPI · XGBoost · OR-Tools · React | [↗ Demo](https://fair-relay.vercel.app) |
 
 ---
 
@@ -75,13 +77,16 @@ muthu = {
 
 ```python
 stack = {
-    "AI/ML"    : ["LangChain", "LangGraph", "RAG", "Prompt Engineering", "OpenCV"],
-    "Backend"  : ["Python", "FastAPI", "REST APIs", "DynamoDB", "PostgreSQL"],
-    "Frontend" : ["React.js", "Next.js", "Tailwind CSS", "JavaScript", "TypeScript"],
-    "Cloud"    : ["AWS", "Google Cloud", "Docker", "GitHub Actions"],
-    "DSA"      : ["500+ LeetCode", "800+ Skillrack + GFG + CodeChef"]
+  "AI/ML"    : ["LangChain", "LangGraph", "Amazon Bedrock",
+                "HuggingFace", "RAG", "Prompt Engineering", "OpenCV"],
+  "Backend"  : ["Python", "FastAPI", "REST APIs", "DynamoDB", "PostgreSQL"],
+  "Frontend" : ["React.js", "Next.js", "Tailwind CSS", "TypeScript"],
+  "Cloud"    : ["AWS", "Google Cloud", "Docker", "GitHub Actions"],
+  "DSA"      : ["500+ LeetCode", "800+ Skillrack + GFG + CodeChef"]
 }
 ```
+
+<p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -90,15 +95,25 @@ stack = {
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+</p>
 
 ---
 
 ## 🏆 Wins
 
-- 🥇 **4x Hackathon Winner** — including $900 prize at Synthesis International (Devfolio)
-- 🎯 **10x Hackathon Finalist** — SSN Innovate-X Top 21 / 100+ teams and more
-- 💻 **500+ LeetCode** · **800+ problems** across Skillrack, GFG and CodeChef
+<p align="center">
+
+| 🥇 | 4x Hackathon Winner — $900 prize at Synthesis International (Devfolio) |
+|---|---|
+| 🎯 | 10x Hackathon Finalist — SSN Innovate-X Top 21 out of 100+ teams |
+| ☁️ | Google Cloud Generative AI Intern — RAG · prompt engineering · LLM evaluation |
+| 💻 | 500+ LeetCode · 800+ across Skillrack, GFG and CodeChef |
+
+</p>
 
 ---
 
@@ -110,7 +125,7 @@ stack = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MUTHUKUMARAN-K-1&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MUTHUKUMARAN-K-1&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 ---
@@ -125,7 +140,9 @@ stack = {
 
 ## 📈 Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MUTHUKUMARAN-K-1&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUTHUKUMARAN-K-1&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
 
 ---
 
@@ -139,26 +156,20 @@ stack = {
 
 ---
 
-## 🔨 Currently working on
+## 🔨 Currently building
 
 - Agentic AI workflows with LangGraph and tool-calling LLMs
 - Contributing to open source AI tooling
-- Preparing for AI/ML and Full Stack internship roles
+- Preparing for AI/ML and Full Stack internship roles — 2025/26
 
 ---
 
 ## 📬 Let's connect
 
-Always up to talk AI, collaborate on something ambitious, or geek out over LLMs.
+> Always up to talk AI, collaborate on something ambitious, or geek out over LLMs.
 
 📧 muthukumaran.42510@gmail.com · 💼 [linkedin.com/in/muthu-k-](https://linkedin.com/in/muthu-k-)
 
 ---
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-*Building AI, not just learning it.*
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=120&section=footer&text=Building%20AI%2C%20not%20just%20learning%20it.&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%" />
