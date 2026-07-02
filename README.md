@@ -69,7 +69,7 @@ muthu = {
 | Project | What it does | Stack | Live |
 |---|---|---|---|
 | **CodeNarrative-AI** | LLM copilot · codebase onboarding 10× faster | Bedrock · AWS SAM · React · DynamoDB | [↗ Demo](https://main.d1d3c3oqy6cy3x.amplifyapp.com/) |
-| **FairRelay** | Fairness-aware AI logistics · 5-agent LangGraph | FastAPI · XGBoost · OR-Tools · React | [↗ Demo](https://fair-relay.vercel.app) |
+| **FairRelay** | Fairness-aware AI logistics · 5-agent LangGraph | FastAPI · XGBoost · OR-Tools · React | [↗ Demo](https://fairrelay-brain-gdm1.onrender.com/demo/consolidation) |
 
 ---
 
